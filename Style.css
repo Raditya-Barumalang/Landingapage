@@ -1,0 +1,27 @@
+/* Hero Section */
+.hero {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Contact Form */
+textarea {
+  height: 150px;
+}
+
+form button {
+  width: 100%;
+  padding: 12px;
+}
+
+/* Custom Scrollbar */
+body {
+  scroll-behavior: smooth;
+}
+
+/* Navbar Adjustment */
+.navbar {
+  margin-top: 60px;
+}
+
